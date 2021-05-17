@@ -1,4 +1,4 @@
-class Candidate:
+class PythonDeveloper:
 
     def __init__(self):
         self.firstName = 'Tretyakov'
